@@ -1,0 +1,28 @@
+{
+  "type": "concierge-wire",
+  "methods": [
+    "register",
+    "resolve",
+    "keys",
+    "list",
+    "status"
+  ],
+  "params": {
+    "register": [
+      "capability",
+      "door",
+      "env",
+      "grants",
+      "caveats",
+      "lease"
+    ],
+    "resolve": [
+      "capability",
+      "want",
+      "audience"
+    ],
+    "keys": [],
+    "list": [],
+    "status": []
+  }
+}

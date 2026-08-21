@@ -17,4 +17,4 @@ check flags.
 - **`manifest.json`** — the dependency-free projection (`deno task gen`) trellis
   reads for its offline conformance check.
 
-Source-available under **PolyForm Noncommercial 1.0.0**.
+Open source under the [MIT License](LICENSE).
